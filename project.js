@@ -45,33 +45,33 @@ $(document).ready(function(){
 
     $("#car1").mouseover(function(){
         $("#car1").css({width:"200px"})
-})
+    })
     $("#car1").mouseout(function(){
         $("#car1").css({width:"100px"})
 
-})
-$("#pay1").mouseover(function(){
-    $("#pay1").css({width:"200px"})
-});
-$("#pay1").mouseout(function(){
-    $("#pay1").css({width:"100px"})
-});
-$("#wal1").mouseover(function(){
-    $("#wal1").css({width:"200px"})
-});
-$("#wal1").mouseout(function(){
-    $("#wal1").css({width:"100px"})
-});
-$("#dea1").mouseover(function(){
-    $("#dea1").css({width:"200px"})
-});
-$("#dea1").mouseout(function(){
-    $("#dea1").css({width:"100px"})
-});
-$("#live1").mouseover(function(){
-    $("#live1").css({width:"200px"})
-});
-$("#live1").mouseout(function(){
-    $("#live1").css({width:"100px"})
-});
-})
+    })
+    $("#pay1").mouseover(function(){
+        $("#pay1").css({width:"200px"})
+    });
+    $("#pay1").mouseout(function(){
+        $("#pay1").css({width:"100px"})
+    });
+    $("#wal1").mouseover(function(){
+        $("#wal1").css({width:"200px"})
+    });
+    $("#wal1").mouseout(function(){
+        $("#wal1").css({width:"100px"})
+    });
+    $("#dea1").mouseover(function(){
+        $("#dea1").css({width:"200px"})
+    });
+    $("#dea1").mouseout(function(){
+        $("#dea1").css({width:"100px"})
+    });
+    $("#live1").mouseover(function(){
+        $("#live1").css({width:"200px"})
+    });
+    $("#live1").mouseout(function(){
+        $("#live1").css({width:"100px"})
+    });
+    })
